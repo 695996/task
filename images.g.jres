@@ -1,0 +1,12 @@
+{
+    ",Z": {
+        "data": "hwQQABAAAAAAAAAAAAAAADAzMzMzMzMDMDMzMzMzMwMwMzMzMzMzAzAzM7M7MzMDMDMzszszMwMwMzMzMzMzAzAzMzMzMzMDMDMzMzMzMwMwMzMzMzMzAzAzM7M7MzMDMDMzszszMwMwMzMzMzMzAzAzMzMzMzMDMDMzMzMzMwMAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "no"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
